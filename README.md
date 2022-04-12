@@ -20,8 +20,8 @@
 Ниже приведен пример кода из нашего приложения:
 
 ```CSS
-.селектор {
-  семейство шрифтов : " Awesome " , Arial , sans-serif ;
-  цвет : красный ;
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
 }
 ```
